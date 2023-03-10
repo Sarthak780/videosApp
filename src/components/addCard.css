@@ -1,0 +1,22 @@
+.addCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(49, 149, 231, 0.226);
+    font-size: 20px;
+    margin:10px;
+    width: 30vw;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.addVideo{
+    margin: 4px;
+}
+@media only screen and (max-width:600px){
+    .addVideo{
+        width: 30px;
+    }
+
+}

@@ -1,0 +1,14 @@
+.histories{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.history{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
